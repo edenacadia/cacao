@@ -118,3 +118,6 @@
 	path = src/CommandLineInterface
 	url = https://github.com/milk-org/CommandLineInterface
     branch = dev
+[submodule "src/pyImageStreamIO"]
+	path = src/pyImageStreamIO
+	url = https://github.com/milk-org/pyImageStreamIO.git
